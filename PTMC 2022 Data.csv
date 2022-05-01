@@ -1,0 +1,81 @@
+Pot,Treatment,Ammendment,Rep,Compost,Vermiculite,Inoculum,Presence.Rhizobia,x,pH1,pH2,pH.3,Saved.Em,H1,H2,H3,H4,H5,H6,H7,H8,H9,H10,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,F.mar28,F.apr4,Weight.lf,Weight.no.lf,Bean.Count,Bean.Weight,Algal.Cover,Dry.Wt,Dry.Wt.Prop
+CTRL1,Ctrl,Ctrl,1,None,None,None,Rhizobia,Rhizobia,5.8,6.17,6.59,1,15,43.6,60,,64.8,,73.2,,,66.6,2,8,17,23,26,34,,,,,F,B,10.767,4.9,5,6.344,None,0.3824,0.3824
+CTRL2,Ctrl,Ctrl,2,None,None,None,No Plant,No Plant,6,4.84,6.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+CTRL3,Ctrl,Ctrl,3,None,None,None,No Plant,No Plant,6.1,5.34,5.73,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+CTRL4,Ctrl,Ctrl,4,None,None,None,No Plant,No Plant,6.1,6.18,7.85,1,19.8,44.5,61,,Dead,,Dead,,,36.9,2,8,20,20,Dead,Dead,,,,,,,0.531,0.531,0,0,None,,
+CTRL5,Ctrl,Ctrl,5,None,None,None,Rhizobia,Rhizobia,5.8,6.37,6.03,1,14.5,38.6,65,,63.3,,49.2,,,52.1,2,5,11,29,32,35,,,,,F,B,9.3,3.521,4,5.032,None,0.3707,0.3707
+RA1,RA,R,1,None,None,Algae,No Plant,No Plant,7.2,8.08,7.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RA2,RA,R,2,None,None,Algae,No Rhizobia,No Rhizobia,6.8,6.15,8.3,1,,6,10.5,,13.6,,17.4,,,16.7,,2,8,8,11,11,,,,,F,,0.721,0.665,0,0,,0.1795,0.1795
+RA3,RA,R,3,None,None,Algae,No Rhizobia,No Rhizobia,7,7.72,7.9,2,,,,,3,,5.6,,,4.3,,,,,2,5,,,,,,,0.85,0.331,0,0,None,0.1171,0.1171
+RA4,RA,R,4,None,None,Algae,No Plant,No Plant,6.7,7.58,7.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RA5,RA,R,5,None,None,Algae,No Plant,No Plant,7.1,7.4,7.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RB1,RB,R,1,None,None,Biocrust,No Plant,No Plant,7.3,8.24,7.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RB2,RB,R,2,None,None,Biocrust,No Plant,No Plant,7.8,6.62,8.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RB3,RB,R,3,None,None,Biocrust,No Rhizobia,No Rhizobia,7.1,7.75,8.04,1,,9.1,14,,23.5,,24.1,,,22,,2,8,11,11,14,,,,,,,2.271,1.105,3,0.461,Partial,0.2297,0.2297
+RB4,RB,R,4,None,None,Biocrust,No Plant,No Plant,7.8,7.53,6.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RB5,RB,R,5,None,None,Biocrust,No Plant,No Plant,7.7,7.36,7.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RCA1,RCA,RC,1,Compost,None,Algae,No Plant,No Plant,6.7,7.65,7.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RCA2,RCA,RC,2,Compost,None,Algae,No Plant,No Plant,7.3,8.51,7.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RCA3,RCA,RC,3,Compost,None,Algae,No Plant,No Plant,7,8.28,7.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RCA4,RCA,RC,4,Compost,None,Algae,No Rhizobia,No Rhizobia,7.8,7.96,7.8,1,,8,29,,48.6,,49.5,,,41.2,,2,5,14,17,27,,,,,F,B,11.342,2.922,3,5.506,,0.2933,0.2933
+RCA5,RCA,RC,5,Compost,None,Algae,No Plant,No Plant,7.3,7.58,7.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RCB1,RCB,RC,1,Compost,None,Biocrust,No Plant,No Plant,7.5,8.35,7.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RCB2,RCB,RC,2,Compost,None,Biocrust,No Plant,No Plant,7.3,7.81,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RCB3,RCB,RC,3,Compost,None,Biocrust,Rhizobia,Rhizobia,7.6,8,7.44,1,,6.3,17,,20.7,,23,,,24,,2,7,10,13,13,,,,,F,B,10.33,1.499,4,6.183,,0.3399,0.3399
+RCB4,RCB,RC,4,Compost,None,Biocrust,No Plant,No Plant,7.2,8.05,7.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RCB5,RCB,RC,5,Compost,None,Biocrust,No Plant,No Plant,7.4,7.77,7.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RCN1,RCN,RC,1,Compost,None,None,No Plant,No Plant,6.8,8.24,7.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RCN2,RCN,RC,2,Compost,None,None,No Plant,No Plant,6.5,7.78,7.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RCN3,RCN,RC,3,Compost,None,None,No Plant,No Plant,6.9,7.3,7.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RCN4,RCN,RC,4,Compost,None,None,No Plant,No Plant,7.1,7.73,7.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RCN5,RCN,RC,5,Compost,None,None,No Plant,No Plant,7.2,7.98,7.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RN1,RN,R,1,None,None,None,No Plant,No Plant,7.3,7.64,7.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RN2,RN,R,2,None,None,None,No Plant,No Plant,7.4,8.03,8.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RN3,RN,R,3,None,None,None,No Rhizobia,No Rhizobia,7.4,7.88,7.89,1,,6.7,19.5,,30.3,,32,,,30,,2,5,8,8,11,,,,,F,F,1.569,0.811,1,0.283,Partial,0.0991,0.0991
+RN4,RN,R,4,None,None,None,No Plant,No Plant,7.7,7.55,8,1,,3.1,16.5,,24.8,,27.3,,,25.2,,2,5,8,11,11,,,,,F,B,2.515,0.598,1,1.385,Partial,,
+RN5,RN,R,5,None,None,None,No Plant,No Plant,7.5,6.99,7.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSA1,RSA,RS,1,Sterile,None,Algae,No Plant,No Plant,7.4,7.2,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RSA2,RSA,RS,2,Sterile,None,Algae,No Plant,No Plant,6.9,7.76,6.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSA3,RSA,RS,3,Sterile,None,Algae,No Plant,No Plant,7,7.64,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSA4,RSA,RS,4,Sterile,None,Algae,No Rhizobia,No Rhizobia,7.2,7.78,7.4,1,,6.8,13,,15.1,,14.7,,,13.1,,,3,4,7,16,,,,,,,6.873,1.72,2,0.413,None,0.3538,0.3538
+RSA5,RSA,RS,5,Sterile,None,Algae,No Plant,No Plant,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RSB1,RSB,RS,1,Sterile,None,Biocrust,No Plant,No Plant,7.3,8.3,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,Partial,,
+RSB2,RSB,RS,2,Sterile,None,Biocrust,No Plant,No Plant,7.2,8.13,7.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSB3,RSB,RS,3,Sterile,None,Biocrust,No Plant,No Plant,7.3,8.06,7.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RSB4,RSB,RS,4,Sterile,None,Biocrust,No Plant,No Plant,7.7,7.64,6.6,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RSB5,RSB,RS,5,Sterile,None,Biocrust,No Plant,No Plant,NA,NA,7.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RSN1,RSN,RS,1,Sterile,None,None,No Plant,No Plant,7.1,7.78,7.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RSN2,RSN,RS,2,Sterile,None,None,No Plant,No Plant,7.2,8.13,8.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSN3,RSN,RS,3,Sterile,None,None,No Plant,No Plant,7.3,7.58,7.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RSN4,RSN,RS,4,Sterile,None,None,No Plant,No Plant,6.8,7.69,7.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RSN5,RSN,RS,5,Sterile,None,None,No Plant,No Plant,NA,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RVA1,RVA,RV,1,None,Vermiculite,Algae,No Rhizobia,No Rhizobia,7.3,7.42,7.5,1,,14,21,,36.5,,37.3,,,42,,2,8,11,17,17,,,,,F,,3.46,1.427,2,1.14,None,0.4186,0.4186
+RVA2,RVA,RV,2,None,Vermiculite,Algae,No Plant,No Plant,7.1,7.82,8.1,1,,14.1,20.5,,31,,32,,,36.2,,2,,11,14,17,,,,,F,B,4.935,1.271,3,2.981,None,0.3039,
+RVA3,RVA,RV,3,None,Vermiculite,Algae,Rhizobia,Rhizobia,7.6,7,7.65,1,,22.1,33,,39.4,,41.2,,,46.7,,2,8,14,17,21,,,,,F,B,5.878,1.632,2,3.073,None,0.3578,
+RVA4,RVA,RV,4,None,Vermiculite,Algae,No Plant,No Plant,7.2,6.88,6.9,1,11.8,23.9,50,,37.8,,37.8,,,36.8,2,5,8,11,14,18,,,,,F,B,4.2,1.788,1,2.35,None,0.4059,
+RVA5,RVA,RV,5,None,Vermiculite,Algae,No Rhizobia,No Rhizobia,7.1,7.62,6.25,1,,12,18,,23.2,,22.4,,,23.2,,2,8,8,11,11,,,,,F,B,3,1.056,1,1.821,None,0.3205,0.3205
+RVB1,RVB,RV,1,None,Vermiculite,Biocrust,No Plant,No Plant,7.8,7.13,7.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RVB2,RVB,RV,2,None,Vermiculite,Biocrust,No Rhizobia,No Rhizobia,7.5,7.25,7.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,0.4514,0.4514
+RVB3,RVB,RV,3,None,Vermiculite,Biocrust,Rhizobia,Rhizobia,7.5,7.14,7.49,1,,13,26.5,,36.2,,37.7,,,38.4,,2,8,11,14,19,,,,,F,B,5.258,1.326,3,2.45,None,0.2646,0.2646
+RVB4,RVB,RV,4,None,Vermiculite,Biocrust,No Rhizobia,No Rhizobia,7,7.58,7.2,1,,12.7,39,,60.6,,5.98,,,58.9,,2,8,11,14,26,,,,,F,B,4.451,1.533,3,2.62,None,0.3713,0.3713
+RVB5,RVB,RV,5,None,Vermiculite,Biocrust,Rhizobia,Rhizobia,7.2,7.73,7.45,1,,,58,,57.4,,48,,,49.6,,2,8,14,20,28,,,,,F,B,3.83,1.545,2,1.969,,0.3976,0.3976
+RVCA1,RVCA,RVC,1,Compost,Vermiculite,Algae,Rhizobia,Rhizobia,6.7,7.57,7.3,1,11.5,40.1,58,,60.5,,57,,,58.1,2,5,11,17,20,23,,,,,F,B,12.022,3.19,2,6.086,None,0.4265,0.4265
+RVCA2,RVCA,RVC,2,Compost,Vermiculite,Algae,Rhizobia,Rhizobia,6.9,7.76,8.25,2,,,12.5,,23.8,,28.5,,,26.3,,,2,5,14,26,,,,,F,B,9.776,1.935,3,4.006,None,0.3312,0.3312
+RVCA3,RVCA,RVC,3,Compost,Vermiculite,Algae,No Plant,No Plant,7.2,7.64,7.89,1,9,24,45,,56.3,,59,,,54.9,2,5,8,17,26,29,,,,,F,B,12.404,2.667,3,6.701,None,0.2391,0.2391
+RVCA4,RVCA,RVC,4,Compost,Vermiculite,Algae,No Rhizobia,No Rhizobia,7.4,8.01,7.4,2,7,22.9,47.5,,44.9,,50,,,41.2,,5,8,17,26,26,,,,,F,B,14.294,2.922,3,7.766,None,0.4654,0.4654
+RVCA5,RVCA,RVC,5,Compost,Vermiculite,Algae,No Rhizobia,No Rhizobia,7.2,7.4,7.64,1,4.9,6.9,29,,36.2,,34.5,,,34.5,,2,7,10,12,19,,,,,F,F,3.635,1.08,2,2.26,None,0.1186,0.1186
+RVCB1,RVCB,RVC,1,Compost,Vermiculite,Biocrust,No Plant,No Plant,7.7,8.06,8.1,2,,20.8,64.5,,67.6,,42,,,67.2,2,5,8,11,23,32,,,,,F,B,9.289,2.283,2,4.203,,0.3171,0.3171
+RVCB2,RVCB,RVC,2,Compost,Vermiculite,Biocrust,Rhizobia,Rhizobia,7.9,8.24,7.75,1,,37,49,,70.2,,47.3,,,67.8,2,5,11,17,26,35,,,,,F,B,13.523,4.349,5,6.811,None,0.5932,0.5932
+RVCB3,RVCB,RVC,3,Compost,Vermiculite,Biocrust,No Rhizobia,No Rhizobia,7.6,7.86,7.81,1,,10.6,14,,19.7,,21.2,,,24.5,2,8,11,14,17,20,,,,,F,B,9.475,2.033,3,5.53,None,0.3524,0.3524
+RVCB4,RVCB,RVC,4,Compost,Vermiculite,Biocrust,No Rhizobia,No Rhizobia,7.3,8.08,8.4,1,,,10,,13,,12,,,13.1,,,,7,10,10,,,,,,F,4.156,1.075,1,1.756,None,0.1178,0.1178
+RVCB5,RVCB,RVC,5,Compost,Vermiculite,Biocrust,No Plant,No Plant,7.5,8.45,7.3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RVCN1,RVCN,RVC,1,Compost,Vermiculite,None,No Rhizobia,No Rhizobia,6.5,7.12,7.6,3,,,4.5,,11.9,,14.5,,,19.7,,,2,2,12,14,,,,,,,1.855,1.448,0,0,None,0.0373,0.0373
+RVCN2,RVCN,RVC,2,Compost,Vermiculite,None,Rhizobia,Rhizobia,7.3,7.83,8.7,1,,18.2,23,,61.7,,57.5,,,60.1,,5,8,14,20,29,,,,,F,B,14.114,2.419,4,7.143,,0.5611,0.5611
+RVCN3,RVCN,RVC,3,Compost,Vermiculite,None,No Rhizobia,No Rhizobia,7.3,7.6,8.1,2,,,4,,15.6,,19.8,,,21.5,,,2,8,11,17,,,,,F,B,6.055,1.019,1,3.428,None,0.1909,0.1909
+RVCN4,RVCN,RVC,4,Compost,Vermiculite,None,Rhizobia,Rhizobia?,7,8.16,7.7,1,5.7,41.1,52,,41.2,,45.5,,,52.6,2,5,11,14,17,23,,,,,F,B,12.375,3.36,5,8.125,None,0.5742,0.5742
+RVCN5,RVCN,RVC,5,Compost,Vermiculite,None,No Plant,No Plant,7,9.06,7.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,,
+RVN1,RVN,RV,1,None,Vermiculite,None,No Plant,No Plant,7.2,7.14,7.54,,,,,,,,,,,,,,,,,,,,,,,,,,,,Total,,
+RVN2,RVN,RV,2,None,Vermiculite,None,No Rhizobia,No Rhizobia,7.6,7.89,7.89,1,,6.4,8.5,,11,,11.5,,,12.1,,2,5,8,8,11,,,,,F,B,3.803,0.547,2,2.575,None,0.1115,0.1115
+RVN3,RVN,RV,3,None,Vermiculite,None,Rhizobia,Rhizobia?,6.9,7.52,7.92,1,,25.6,46,,44,,40.1,,,45,,5,8,11,14,19,,,,,F,B,4.764,1.623,2,2.669,None,0.2813,0.2813
+RVN4,RVN,RV,4,None,Vermiculite,None,No Rhizobia,No Rhizobia,7.3,7.12,7.9,1,,14.1,42,,60.9,,53,,,57.1,,2,8,12,15,27,,,,,F,,6.045,1.733,3,3.521,None,0.1118,
+RVN5,RVN,RV,5,None,Vermiculite,None,No Rhizobia,No Rhizobia,7.2,7.23,7.22,2,,13.7,22,,28,,30,,,27.7,,2,8,11,14,15,,,,,F,F,2.64,1.16,2,1.46,None,0.2577,0.2577
